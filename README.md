@@ -12,7 +12,7 @@ This is a simple script that helps you run Silent Hill 3 with support for Reloa
 
 ## Requirements
 
-- **Windows x86** operating system.
+- **Windows** operating system.
 - **Reloaded-II** mod loader.
 - Silent Hill 3 game files with configured mods through **Reloaded-II**.
 
