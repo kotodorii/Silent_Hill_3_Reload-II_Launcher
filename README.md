@@ -29,9 +29,9 @@ This is a simple script that helps you run Silent Hill 3 with support for Reloa
 2. Edit the `.ini` file to specify the correct paths for your **Reloaded-II**, **Silent Hill 3**, and **working directory** locations:
    ```ini
    [Paths]
-   ReloadedIIPath = C:\PATH\Reloaded-II\Reloaded-II.exe
-   SilentHill3Path = C:\SILENT HILL 3\sh3.exe
-   ReloadedIIWorkingDirectory = C:\PATH\Reloaded-II
+   ReloadedIIPath = C:\<FULL_PATH_TO>\Reloaded-II\Reloaded-II.exe
+   SilentHill3Path = C:\<FULL_PATH_TO>\SILENT HILL 3\sh3.exe
+   ReloadedIIWorkingDirectory = C:\<FULL_PATH_TO>\Reloaded-II
    ```
 3. Save the file after updating the paths.
 
