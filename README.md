@@ -18,7 +18,7 @@ This is a simple script that helps you run Silent Hill 3 with support for Reloa
 
 ## Installation
 
-1. **Download** the latest version of the launcher from the [Releases](https://github.com/your-username/silent-hill-3-launcher/releases) page.
+1. **Download** the latest version of the launcher from the [Releases](https://github.com/kotodorii/SilentHill3_Launcher/releases) page.
 2. Extract the files to a folder of your choice.
 3. Ensure you have **Reloaded-II** installed and the required game files available.
 4. Edit launcher\_config.ini file with the paths to necessary files.
