@@ -1,4 +1,4 @@
-# Silent Hill 3 Reloaded-II Launcher
+# Silent Hill 3 Reload-II Launcher
 
 ## Overview
 
