@@ -7,7 +7,7 @@ This is a simple script that helps you run Silent Hill 3 with support for Reloa
 ## Features
 
 - Launch **Silent Hill 3** using the **Reloaded-II** mod loader.
-- Configure game paths easily through a simple `.ini` file.
+- Configure game paths through a `.ini` file.
 - Automatically monitors and waits for the game to start running.
 
 ## Requirements
